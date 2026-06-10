@@ -1,0 +1,45 @@
+Dataset Source Information
+
+Dataset Name:
+Telco Customer Churn Dataset
+
+Source:
+IBM Sample Data (Telco Customer Churn)
+
+Original File Name:
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+Description:
+This dataset contains information about a telecom company's customers and whether they churned (left the service) or not.
+
+It includes customer demographics, account information, and service usage details such as:
+- Tenure (how long customer stayed)
+- Monthly charges
+- Total charges
+- Contract type
+- Internet services
+- Payment method
+
+Purpose of Use:
+This dataset is used to:
+1. Analyze customer churn behavior
+2. Predict churn probability
+3. Calculate Customer Lifetime Value (CLV)
+4. Segment customers based on value and risk
+
+Modifications Made:
+- Converted 'Churn' column from Yes/No to 1/0
+- Cleaned missing values in TotalCharges
+- Created new features:
+  * CLV (Customer Lifetime Value)
+  * Churn_Prob (Churn probability indicator)
+  * Segment (Customer segmentation)
+
+Project Use:
+Used for Customer Churn & CLV Optimization Dashboard in Power BI.
+
+Prepared By:
+[Your Name]
+
+Date:
+[Add your date]

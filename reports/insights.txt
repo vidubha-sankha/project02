@@ -1,0 +1,12 @@
+Key Insights:
+
+1. Customers with tenure less than 12 months have higher churn.
+2. High monthly charges increase churn probability.
+3. High CLV customers contribute majority of revenue.
+4. High Value - At Risk customers should be targeted for retention.
+
+Recommendations:
+
+- Offer discounts to high-risk customers
+- Improve onboarding for new customers
+- Introduce long-term subscription plans
